@@ -1,3 +1,7 @@
+https://github.com/phibr0/obsidian-charts?tab=readme-ov-file
+
+radar 타입으로 쓰면 됩니다.
+
 # Obsidian-Charts [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-charts)](https://github.com/phibr0/obsidian-charts/releases) [![Release Obsidian Plugin](https://github.com/phibr0/obsidian-charts/actions/workflows/release.yml/badge.svg)](https://github.com/phibr0/obsidian-charts/actions/workflows/release.yml) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-charts/total)
 
 This plugin lets you create interactive Charts in
